@@ -1,0 +1,11 @@
+body{
+    background-image: url(b1.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    image-resolution: 16k;
+}
+div{
+    color: white;
+}
